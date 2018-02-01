@@ -1,0 +1,23 @@
+{
+  "name": "validator",
+  "version": "0.0.1",
+  "description": "some common regexp at work",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/validator.test.js"
+  },
+  "keywords": [
+    "validator",
+    "pattern"
+  ],
+  "author": "qiaoni",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
