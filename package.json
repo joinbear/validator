@@ -1,6 +1,6 @@
 {
   "name": "validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "some common regexp at work",
   "main": "src/index.js",
   "directories": {
@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test/validator.test.js"
+    "test": "mocha test/*"
   },
   "keywords": [
     "validator",

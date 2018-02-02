@@ -33,7 +33,7 @@
 ```
 ##使用
 ```
-	$npm i 
+	$npm i https://github.com/joinbear/validator.git --save-dev
 	const { validator , pattern , helper } = require('validator');
 	const phone = '18212345678';
 	// validate
